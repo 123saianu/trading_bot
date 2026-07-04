@@ -56,6 +56,7 @@ Windows:
 ```bash
 python -m venv venv
 ```
+############         MUST CREATE A venv file as i didn't upload it due to its huge size
 
 Activate:
 
@@ -94,11 +95,18 @@ BINANCE_API_SECRET=YOUR_API_SECRET
 python cli.py --symbol BTCUSDT --side BUY --order-type MARKET --quantity 0.001
 ```
 
+
+<img width="1920" height="1080" alt="Screenshot (1431)" src="https://github.com/user-attachments/assets/8e3871f2-43cb-48f5-964a-280e29e83fe2" />
+
+
 ### MARKET SELL
 
 ```bash
 python cli.py --symbol BTCUSDT --side SELL --order-type MARKET --quantity 0.001
 ```
+
+<img width="1920" height="1080" alt="Screenshot (1432)" src="https://github.com/user-attachments/assets/a535a256-ea04-40ed-ac39-ef95c8e9874e" />
+
 
 ### LIMIT BUY
 
