@@ -1,6 +1,8 @@
 # trading_bot
 # Binance Futures Testnet Trading Bot
 
+#CREATE A VENV FILE AS I DIDN'T UPLOAD IT DUE TO IT'S HUZE SIZE
+
 A simple Python CLI application that places MARKET and LIMIT orders on the Binance USDT-M Futures Testnet.
 
 ## Features
